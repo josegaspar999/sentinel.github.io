@@ -1,0 +1,10 @@
+
+Great intro to make GitHub webpages in:
+https://pages.github.com/
+
+Recover locally deleted files:
+https://stackoverflow.com/questions/4235431/git-deleted-some-files-locally-how-do-i-get-them-from-a-remote-repository
+git checkout HEAD .
+
+Word to HTML UTF-8
+save as: filtered html + (more options) Tools/weboptions/Encoding/Unicode-UTF-8
