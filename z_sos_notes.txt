@@ -1,4 +1,7 @@
 
+Note: Edits here take some time, usually a couple of minutes, to appear in the final webpage
+https://josegaspar999.github.io/sentinel.github.io/
+
 Great intro to make GitHub webpages in:
 https://pages.github.com/
 
